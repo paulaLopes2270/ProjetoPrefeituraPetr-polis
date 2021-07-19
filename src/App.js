@@ -1,8 +1,9 @@
+import { Routes } from "./Routes";
 
 function App() {
   return (
     <div className="App">
-      <h1>Agora vai hein .</h1>
+      <Routes />
     </div>
   );
 }
